@@ -17,6 +17,9 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^1.0.0"
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "sirv-cli": "^1.0.0",
+    "tailwindcss": "^2.0.2"
   }
 }
